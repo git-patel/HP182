@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @HP182
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ... Apk
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Harsh
+- 👀 I’m interested in Android Design 
+- 🌱 I’m currently learning  Apk....
+- 💞️ I’m looking to collaborate on Applications Design makers
 - 📫 How to reach me Gmail
 
 
