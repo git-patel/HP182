@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Harsh
+- 👋 Hi, I’m Harsh
 - 👀 I’m interested in Android Design 
 - 🌱 I’m currently learning  Apk....
 - 💞️ I’m looking to collaborate on Applications Design makers
